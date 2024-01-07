@@ -1,6 +1,9 @@
 # Rating Prediction using Collaborative Filtering
 
-This project predicts customers' clothes ratings using a bag of words model with linear regression, collaborative filtering model with Jaccard similarity, and a latent factor model
+This project predicts customers' clothes ratings from data of clothes measurements, customers' body measurements, fit feedback, and reviews using 3 models:
+1. Bag of words model with linear regression
+2. Collaborative filtering model with Jaccard similarity
+3. Latent factor model
 
 ## Roadmap
 
