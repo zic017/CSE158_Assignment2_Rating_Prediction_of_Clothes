@@ -9,3 +9,7 @@ This project predicts customers' clothes ratings from data of clothes measuremen
 
 - Rating Prediction.ipynb: code for exploratory data analysis, data wrangling and machine learning models to predict customer ratings
 - Rating Prediction Report.pdf: report that discusses the methods, models, and results
+
+## Acknowledgements
+
+ - Rishabh Misra, Mengting Wan, Julian McAuley: Decomposing fit semantics for product size recommendation in metric spaces, In RecSys, 2018.
